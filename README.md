@@ -1,2 +1,2 @@
 ### Real Time Bus Tracker
-an animation showing the location of a city bus in real time
+Using the JavaScript mapbox gl library and MBTA bus data we can determine the stops between Harvard and MIT.
